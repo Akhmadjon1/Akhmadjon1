@@ -1,4 +1,10 @@
+# Hello, I am Akhmadjon👨🏻‍💻
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Django+Backend+Web+Developer👨‍💻;Based+in+Busan,+South+Korea🇰🇷;Ask+me+about+Django⚡️&color=cyan&center=true" />
+</div>
+
 # 💫 About Me:
+
 🔭 I’m currently working on Student Study Portal<br>👯 I’m looking to collaborate on Django Backend Engineer<br>🤝 I’m looking for help with Experienced Django Full-Stack Web Developer<br>🌱 I’m currently learning Python, Django, React, JavaScript<br>💬 Ask me about Python, Django<br>⚡ Fun fact I am a good sociable😎
 
 
@@ -21,4 +27,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=akhmadjon1&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
