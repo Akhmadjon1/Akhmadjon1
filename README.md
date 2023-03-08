@@ -4,6 +4,28 @@
 </div>
 
 # 💫 About Me:
+ ## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Akhmadjon Zukhriddinov'
+		current_work = 'Writing code'
+		hobbies = [
+				'Listening to Audio Books',
+				'Watching Dramas',
+				'Reading Sci-Fi Novels'
+				'Being up all Night chasing that ONE BUG...'
+			]
+	
+	def getCity():
+		return Busan_S.Korea()
+	
+	def Ambitions():
+		LearnKorean()
+		FinishUniversity()
+		GetIntoGoogle()
+		# Assume 10 more awesome ambitions here  ;)
+	
+ ```
 
 🔭 I’m currently working on Music Controller App<br>👯 I’m looking to collaborate on Django Backend Engineer<br>🤝 I’m looking for help with Experienced Django Full-Stack Web Developer<br>🌱 I’m currently learning Python, Django, React, JavaScript<br>💬 Ask me about Python, Django<br>⚡ Fun fact I am a good sociable😎
 
