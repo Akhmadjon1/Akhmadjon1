@@ -23,11 +23,11 @@
 		LearnKorean()
 		FinishUniversity()
 		GetIntoGoogle()
-		# Assume 10 more awesome ambitions here  ;)
+		# Assume 10 more awesome ambitions here ;)
 	
  ```
 
-🔭 I’m currently working on Django Blog App<br>👯 I’m looking to collaborate on Django Backend Engineer<br>🤝 I’m looking for help with Experienced Django Full-Stack Web Developer<br>🌱 I’m currently learning Python, Django, React, JavaScript<br>💬 Ask me about Python, Django<br>⚡ Fun fact I am a good sociable😎
+🔭 I’m currently working on Django Social App<br>👯 I’m looking to collaborate on Django Backend Engineer<br>🤝 I’m looking for help with Experienced Django Full-Stack Web Developer<br>🌱 I’m currently learning Python, Django, React, JavaScript<br>💬 Ask me about Python, Django<br>⚡ Fun fact I am a good sociable😎
 
 
 ## 🌐 Socials:
